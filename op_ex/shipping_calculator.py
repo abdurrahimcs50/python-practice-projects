@@ -29,12 +29,9 @@ def calculate_shipping_cost(weight):
 # Input: Get the weight of the package from the user
 try:
     weight = float(input("What is The Weight Of Your Package (in kg)? "))
-    
     # check weight is non-negative
-    
     if weight < 0:
         print("Invalid Weight")
-    
     else:
         shipping_cost = calculate_shipping_cost(weight)
         print(f"The shipping cost for a {weight} kg package is ${shipping_cost:.2f}")
