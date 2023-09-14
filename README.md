@@ -1,2 +1,4 @@
-# python-practice-projects
-Explore Python with hands-on practice projects. Perfect for all skill levels, from beginners to experts. Let's code and learn together!
+# My Python Practice Projects
+
+Welcome to my Python Practice Projects repository! This is my collection of master Python's core concepts through hands-on coding exercises and projects.
+
